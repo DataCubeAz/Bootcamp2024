@@ -15,6 +15,7 @@ Dərsin materialları üçün [notebook-a baxın](notebooks/1.Introduction_to_Da
 * [![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 * [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OgWTxr3ZYA8/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 *  [![](https://markdown-videos-api.jorgenkh.no/youtube/AtRhA-NfS24)](https://www.youtube.com/watch?v=AtRhA-NfS24&list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb&index=3)
+
 *  [![](https://markdown-videos-api.jorgenkh.no/youtu.be/OgWTxr3ZYA8)](https://www.youtube.com/watch?v=OgWTxr3ZYA8)
 
 ---
