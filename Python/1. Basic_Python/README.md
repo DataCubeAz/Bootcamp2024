@@ -10,7 +10,7 @@ Dərsin materialları üçün [notebook-a baxın](notebooks/1.Introduction_to_Da
 ## Numbers: int, float, complex
 
 ### Integers (Tam ədədlər)
-*  [![](https://markdown-videos-api.jorgenkh.no/youtube/OgWTxr3ZYA8)](https://youtu.be/OgWTxr3ZYA8)
+* [![](https://markdown-videos-api.jorgenkh.no/youtube/OgWTxr3ZYA8)](https://youtu.be/OgWTxr3ZYA8)
 
 
 ---
