@@ -3,7 +3,7 @@
 Bu dərsdə siz müxtəlif data növləri haqqında məlumat əldə edəcəksiniz.
 
 ### **Notebook**  
-Dərsin materialları üçün [notebook-a baxın](notebooks/1.Introduction_to_Data_Structures.ipynb).
+Dərsin materialları üçün [notebook-a baxın](Basic_Python/notebooks/1.Introduction to Data Structures.ipynb).
 
 ---
 
