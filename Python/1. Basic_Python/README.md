@@ -23,3 +23,4 @@ Mövzunu möhkəmləndirmək üçün tapşırıqlar:
 
 ## Community Notes  
 Dərslə bağlı icma qeydləri və şərhlər əlavə oluna bilər.  
+---
