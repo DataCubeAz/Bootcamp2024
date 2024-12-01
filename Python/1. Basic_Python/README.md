@@ -9,8 +9,10 @@ Dərsin materialları üçün [notebook-a baxın](notebooks/1.Introduction_to_Da
 
 ## Numbers: int, float, complex
 
-### Integers (Tam ədədlər)  
-Integers haqqında ətraflı öyrənmək üçün bu [videoya baxın](https://www.youtube.com/watch?v=OgWTxr3ZYA8).  
+### Integers (Tam ədədlər)
+[![Integers Video](video_preview.gif)](https://www.youtube.com/watch?v=OgWTxr3ZYA8)  
+Integers haqqında ətraflı öyrənmək üçün bu videoya baxın.
+
 
 ---
 
